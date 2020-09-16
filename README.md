@@ -1,2 +1,2 @@
-# STM32F407-Dicovery-Board
-This is STM32F407 dicovery board sample code!
+# STM32F407-Discovery-Board
+This is STM32F407 discovery board sample code!
